@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="617e3d31-e182-4ff5-96e7-54482ebed4a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/bottom_button.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/calculator_brain.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/constants.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/icon_content.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/input.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/results_page.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/reusabale_card.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator-flutter" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator-flutter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator-flutter/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator-flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator-flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator-flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator-flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator-flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator-flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bmi-calculator-flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bmi-calculator-flutter/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-8-ball-flutter" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball-flutter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-8-ball-flutter/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball-flutter/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-8-ball-flutter/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball-flutter/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-8-ball-flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball-flutter/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/magic-8-ball-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/magic-8-ball-flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylophone-flutter" beforeDir="false" afterPath="$PROJECT_DIR$/xylophone-flutter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylophone-flutter/ios/Flutter/Debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/xylophone-flutter/ios/Flutter/Debug.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylophone-flutter/ios/Flutter/Release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/xylophone-flutter/ios/Flutter/Release.xcconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylophone-flutter/ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/xylophone-flutter/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylophone-flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/xylophone-flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xylophone-flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/xylophone-flutter/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/destini-challenge" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
